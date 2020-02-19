@@ -1,5 +1,5 @@
 {
-  "name": "elastalert-kibana-plugin",
+  "name": "elastalert",
   "version": "7.5.1",
   "description": "Create, test and edit ElastAlert rules within Kibana.",
   "main": "index.js",
